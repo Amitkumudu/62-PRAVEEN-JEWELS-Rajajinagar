@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="newbill" targetNamespace="http://tempuri.org/newbill.xsd" xmlns:mstns="http://tempuri.org/newbill.xsd" xmlns="http://tempuri.org/newbill.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="newbill" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="newbill" msprop:Generator_DataSetName="newbill">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="bill_head" msprop:Generator_UserTableName="bill_head" msprop:Generator_RowDeletedName="bill_headRowDeleted" msprop:Generator_TableClassName="bill_headDataTable" msprop:Generator_RowChangedName="bill_headRowChanged" msprop:Generator_RowClassName="bill_headRow" msprop:Generator_RowChangingName="bill_headRowChanging" msprop:Generator_RowEvArgName="bill_headRowChangeEvent" msprop:Generator_RowEvHandlerName="bill_headRowChangeEventHandler" msprop:Generator_TablePropName="bill_head" msprop:Generator_TableVarName="tablebill_head" msprop:Generator_RowDeletingName="bill_headRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="companyheadin" msprop:Generator_UserColumnName="companyheadin" msprop:Generator_ColumnPropNameInRow="companyheadin" msprop:Generator_ColumnVarNameInTable="columncompanyheadin" msprop:Generator_ColumnPropNameInTable="companyheadinColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="com_address" msprop:Generator_UserColumnName="com_address" msprop:Generator_ColumnPropNameInRow="com_address" msprop:Generator_ColumnVarNameInTable="columncom_address" msprop:Generator_ColumnPropNameInTable="com_addressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="com_tin" msprop:Generator_UserColumnName="com_tin" msprop:Generator_ColumnPropNameInRow="com_tin" msprop:Generator_ColumnVarNameInTable="columncom_tin" msprop:Generator_ColumnPropNameInTable="com_tinColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="com_cst" msprop:Generator_UserColumnName="com_cst" msprop:Generator_ColumnPropNameInRow="com_cst" msprop:Generator_ColumnVarNameInTable="columncom_cst" msprop:Generator_ColumnPropNameInTable="com_cstColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

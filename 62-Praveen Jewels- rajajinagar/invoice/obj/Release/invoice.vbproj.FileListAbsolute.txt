@@ -1,0 +1,764 @@
+C:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.exe
+C:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.xml
+C:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.pdb
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.application
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.exe
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.pdb
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.xml
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\System.Web.Services.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\stdole.dll
+C:\passion\Invoice\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+C:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+C:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+C:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.application
+E:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.exe
+E:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.xml
+E:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.pdb
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.application
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.exe
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.pdb
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\invoice.xml
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\stdole.dll
+E:\passion\Invoice\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+E:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+E:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+E:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+E:\passion\Invoice\Praveen Jewels\invoice\obj\Release\invoice.application
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\obj\Release\invoice.exe
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\obj\Release\invoice.xml
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\obj\Release\invoice.pdb
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\invoice.application
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\invoice.exe
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\invoice.pdb
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\invoice.xml
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\stdole.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+E:\asterix technology\invoice copy\Praveen Jewels\invoice\obj\Release\invoice.application
+E:\latest gstinvoices\Praveen Jewels\invoice\obj\Release\invoice.exe
+E:\latest gstinvoices\Praveen Jewels\invoice\obj\Release\invoice.xml
+E:\latest gstinvoices\Praveen Jewels\invoice\obj\Release\invoice.pdb
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\invoice.application
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\invoice.exe
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\invoice.pdb
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\invoice.xml
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\stdole.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\latest gstinvoices\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+E:\latest gstinvoices\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+E:\latest gstinvoices\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+E:\latest gstinvoices\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\latest gstinvoices\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+E:\latest gstinvoices\Praveen Jewels\invoice\obj\Release\invoice.application
+E:\final gst invoices\Praveen Jewels\invoice\obj\Release\invoice.exe
+E:\final gst invoices\Praveen Jewels\invoice\obj\Release\invoice.xml
+E:\final gst invoices\Praveen Jewels\invoice\obj\Release\invoice.pdb
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\invoice.application
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\invoice.exe
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\invoice.pdb
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\invoice.xml
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\stdole.dll
+E:\final gst invoices\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\final gst invoices\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+E:\final gst invoices\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+E:\final gst invoices\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\final gst invoices\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+E:\final gst invoices\Praveen Jewels\invoice\obj\Release\invoice.application
+E:\final gst invoices\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\obj\Release\invoice.exe
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\obj\Release\invoice.xml
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\obj\Release\invoice.pdb
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\invoice.application
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\invoice.exe
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\invoice.pdb
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\invoice.xml
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\stdole.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+C:\Users\manju\Desktop\OFFICE\new invoices i changed\Praveen Jewels\invoice\obj\Release\invoice.application
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.xml
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.pdb
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.application
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.exe
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.pdb
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.xml
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\stdole.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+C:\Users\manju\Desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.application
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\obj\Release\invoice.exe
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\obj\Release\invoice.xml
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\obj\Release\invoice.pdb
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\invoice.application
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\invoice.exe
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\invoice.pdb
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\invoice.xml
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\stdole.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\obj\Release\invoice.application
+C:\Users\User\Desktop\new\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+D:\desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\desktop\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.pdb
+D:\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.pdb
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.xml
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.pdb
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.application
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.exe
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.pdb
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.xml
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\stdole.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+E:\asterix files\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.application
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.application
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.exe
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.pdb
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.xml
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\stdole.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.application
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.xml
+\\USER1\asterixtechnology\MANUSHREE BACKUP\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.pdb
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.xml
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.pdb
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.application
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.exe
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.pdb
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\invoice.xml
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\stdole.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+\\User1\server\MANUSHREE INVOICES\NEW invoice\Praveen Jewels\invoice\obj\Release\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\stdole.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.application
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.application
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.exe
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.pdb
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\invoice.xml
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\stdole.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.application
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.pdb
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.pdb
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.application
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.exe
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.pdb
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.xml
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\stdole.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.application
+D:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.exe
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.xml
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.pdb
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.application
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.exe
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.pdb
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.xml
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\stdole.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.application
+E:\INVOICES\Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+H:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.exe
+H:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.xml
+H:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.pdb
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.application
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.exe
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.pdb
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\invoice.xml
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\stdole.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+H:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+H:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+H:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+H:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+H:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+H:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.application
+E:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.exe
+E:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.xml
+E:\62-Praveen Jewels\Praveen Jewels\invoice\obj\Release\invoice.pdb
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.pdb
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.application
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.pdb
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.xml
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\stdole.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.application
+D:\all_invoices\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.pdb
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.application
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.pdb
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.xml
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\stdole.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+D:\updated invoice\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.application
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.pdb
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.application
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.pdb
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.xml
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\stdole.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.application
+D:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.xml
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.pdb
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.application
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.pdb
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.xml
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\stdole.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+F:\Daily_invoice_changes\2025_invoice changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.application
+D:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.pdb
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.xml
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.pdb
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.application
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.exe
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.pdb
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\invoice.xml
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\stdole.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.application
+F:\Daily_invoice_changes\62-Praveen Jewels- vijayanagar\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.exe
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.xml
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.pdb
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.application
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.exe
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.pdb
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.xml
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\stdole.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.application
+F:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.exe
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.xml
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.pdb
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.exe.manifest
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.application
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.exe
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.pdb
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\invoice.xml
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\FlashControlV71.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\stdole.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.Form1.resources
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.Resources.resources
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
+D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.application
