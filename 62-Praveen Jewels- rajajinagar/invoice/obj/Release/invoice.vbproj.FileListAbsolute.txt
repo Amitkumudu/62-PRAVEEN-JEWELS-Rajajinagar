@@ -762,3 +762,35 @@ D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\o
 D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
 D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.exe.manifest
 D:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\Praveen Jewels\invoice\obj\Release\invoice.application
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\obj\Release\invoice.exe
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\obj\Release\invoice.xml
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\obj\Release\invoice.pdb
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\invoice.exe.manifest
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\invoice.application
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\invoice.exe
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\invoice.pdb
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\invoice.xml
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.Shared.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\FlashControlV71.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\stdole.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\bin\Release\ShockwaveFlashObjects.dll
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\obj\Release\invoice.Form1.resources
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\obj\Release\invoice.Resources.resources
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\obj\Release\invoice.exe.manifest
+G:\Daily_invoice_changes\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\62-Praveen Jewels- rajajinagar\invoice\obj\Release\invoice.application
